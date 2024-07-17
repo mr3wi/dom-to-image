@@ -1,2 +1,2 @@
 # dom-to-image
-Convert dom element to image using dom-to-image librairy with vanilla js &amp; webpack
+Convert dom element to image  with vanilla js
